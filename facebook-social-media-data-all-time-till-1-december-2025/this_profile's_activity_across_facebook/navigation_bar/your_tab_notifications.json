@@ -1,0 +1,20 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Product",
+      "value": "Bookmarks"
+    },
+    {
+      "label": "The last time you cleared notifications",
+      "timestamp_value": 1762253722
+    },
+    {
+      "label": "Notifications disabled",
+      "value": "False"
+    }
+  ],
+  "fbid": "1275136046679772"
+}

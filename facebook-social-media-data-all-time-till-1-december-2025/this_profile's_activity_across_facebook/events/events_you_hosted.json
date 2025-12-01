@@ -1,0 +1,35 @@
+{
+  "title": "MAHA RAD 2022 (Mumbai) - Annual State Conference of MSBIRIA i.e Maharashtra State Board of IRIA ( IN",
+  "timestamp": 1670651613,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Is this an onboarding event?",
+      "value": "Onboarding"
+    },
+    {
+      "label": "Status",
+      "value": "Completed"
+    },
+    {
+      "label": "Actions",
+      "dict": [
+        {
+          "label": "Share on your Page",
+          "value": "Completed"
+        },
+        {
+          "label": "Start discussion",
+          "value": "Completed"
+        }
+      ]
+    },
+    {
+      "label": "Event host",
+      "value": "Phantom Healthcare IND Private Limited"
+    }
+  ],
+  "fbid": "5688712341215064"
+}

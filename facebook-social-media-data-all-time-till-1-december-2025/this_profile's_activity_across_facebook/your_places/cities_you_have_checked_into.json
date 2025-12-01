@@ -1,0 +1,37 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Cities",
+      "vec": [
+        {
+          "value": "Jaipur, Rajasthan"
+        },
+        {
+          "value": "Dubai, United Arab Emirates"
+        },
+        {
+          "value": "Faridabad"
+        },
+        {
+          "value": "Washington D.C."
+        },
+        {
+          "value": "Kolkata"
+        },
+        {
+          "value": "Bhopal, Madhya Pradesh"
+        },
+        {
+          "value": "Amritsar, Punjab"
+        },
+        {
+          "value": "Kozhikode (Calicut), India"
+        }
+      ]
+    }
+  ],
+  "fbid": "100064240231428"
+}

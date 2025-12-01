@@ -1,0 +1,736 @@
+[
+  {
+    "timestamp": 1760796777,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Groups"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Video"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Professional dashboard"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "1227942442690419"
+  },
+  {
+    "timestamp": 1723486624,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Messenger"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Professional dashboard"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "899189825565684"
+  },
+  {
+    "timestamp": 1722739714,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Professional dashboard"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Composer button for creator tool"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "893693429448657"
+  },
+  {
+    "timestamp": 1719330423,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Professional dashboard"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Composer button for creator tool"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "868807581937242"
+  },
+  {
+    "timestamp": 1712467100,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Professional dashboard"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Boosted Page"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Timeline"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "818776463607021"
+  },
+  {
+    "timestamp": 1712467100,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Professional dashboard"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Boosted Page"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Timeline"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "818776456940355"
+  },
+  {
+    "timestamp": 1690565790,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Messenger"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Video"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Marketplace"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Groups"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "665373578947311"
+  },
+  {
+    "timestamp": 1688618158,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Pages"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Professional dashboard"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Boosted Page"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Video"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "650660543751948"
+  },
+  {
+    "timestamp": 1676467453,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Boosted Page"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Composer button for creator tool"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "564332052384798"
+  },
+  {
+    "timestamp": 1675832535,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Boosted Page"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Composer button for creator tool"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "558956322922371"
+  },
+  {
+    "timestamp": 1675629727,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Professional dashboard"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Boosted Page"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Timeline"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "557365309748139"
+  },
+  {
+    "timestamp": 1675090441,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Boosted Page"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Composer button for creator tool"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "552871476864189"
+  },
+  {
+    "timestamp": 1674717615,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Shortcuts",
+        "vec": [
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "News Feed"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Bookmarks"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Notifications"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Timeline"
+              }
+            ]
+          },
+          {
+            "dict": [
+              {
+                "label": "Name",
+                "value": "Video"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "fbid": "549833410501329"
+  }
+]

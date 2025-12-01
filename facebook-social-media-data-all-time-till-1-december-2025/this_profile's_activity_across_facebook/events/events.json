@@ -1,0 +1,19 @@
+{
+  "your_events_v2": [
+    {
+      "name": "MAHA RAD 2022 (Mumbai) - Annual State Conference of MSBIRIA i.e Maharashtra State Board of IRIA ( IN",
+      "start_timestamp": 1670652000,
+      "end_timestamp": 1670763600,
+      "place": {
+        "name": "Cidco Convention Center Vashi",
+        "coordinate": {
+          "latitude": 19.065800030845,
+          "longitude": 72.995418711929
+        },
+        "address": "Vashi, Mumbai, Maharashtra, India 400703"
+      },
+      "description": "We invite you to MAHA RAD 2022 (Mumbai) - Annual State Conference of MSBIRIA i.e Maharashtra State Board of IRIA ( INDIAN RADIOLOGICAL AND IMAGING ASSOCIATION)\nPHANTOM HEALTHCARE is participating as one of the significant Exhibitors in the 45th Annual State Conference of MSBIRIA -\nMAHA RAD 2022 (Mumbai).\nThis conference cum exhibition is hosted by NMRRIA\n(Navi Mumbai Radiological & Imaging Association) to be held on Sat 10th & 11th December 2022 At CIDCO Convention Centre, Opp. Joyalukkas Showroom, Near Railway Station, Vashi, Navi Mumbai - 400 703.\nMeet Us At\nStall No. 10\nConference/Exhibition Hall\nContact +91 8545815483\nMore Information At https://msbiria.org/45th-annual-state-conference-navi.../",
+      "create_timestamp": 1670651611
+    }
+  ]
+}

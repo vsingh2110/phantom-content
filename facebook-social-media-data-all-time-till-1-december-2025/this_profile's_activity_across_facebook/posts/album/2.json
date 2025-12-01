@@ -1,0 +1,77 @@
+{
+  "name": "Profile pictures",
+  "photos": [
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Profilepictures_549612150523455/549612203856783.jpg",
+      "creation_timestamp": 1674691322,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1674691326
+            }
+          ]
+        }
+      },
+      "title": "Profile pictures"
+    },
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Profilepictures_549612150523455/675205454630790.jpg",
+      "creation_timestamp": 1691829933,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1691829935
+            }
+          ]
+        }
+      },
+      "title": "Profile pictures"
+    },
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Profilepictures_549612150523455/694686362682699.jpg",
+      "creation_timestamp": 1694603694,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1694603695
+            }
+          ]
+        }
+      },
+      "title": "Profile pictures"
+    },
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Profilepictures_549612150523455/1041349208016411.jpg",
+      "creation_timestamp": 1740482659,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1740482663
+            }
+          ]
+        }
+      },
+      "title": "Profile pictures"
+    }
+  ],
+  "cover_photo": {
+    "uri": "this_profile's_activity_across_facebook/posts/media/Profilepictures_549612150523455/1041349208016411.jpg",
+    "creation_timestamp": 1740482659,
+    "media_metadata": {
+      "photo_metadata": {
+        "exif_data": [
+          {
+            "taken_timestamp": 1740482663
+          }
+        ]
+      }
+    },
+    "title": "Profile pictures"
+  },
+  "last_modified_timestamp": 1740482665,
+  "description": ""
+}

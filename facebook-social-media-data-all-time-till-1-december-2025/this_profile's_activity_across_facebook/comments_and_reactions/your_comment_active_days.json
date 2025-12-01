@@ -1,0 +1,16 @@
+{
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Number of days you commented in last 7 days",
+      "value": "1"
+    },
+    {
+      "label": "Number of days you commented in last 30 days",
+      "value": "2"
+    }
+  ],
+  "fbid": "100064240231428"
+}

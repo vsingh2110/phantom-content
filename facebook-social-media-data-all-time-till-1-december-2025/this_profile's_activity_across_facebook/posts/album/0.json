@@ -1,0 +1,53 @@
+{
+  "name": "Cover photos",
+  "photos": [
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Coverphotos_549612157190121/549612147190122.jpg",
+      "creation_timestamp": 1674691322,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1674691325
+            }
+          ]
+        }
+      },
+      "title": "Cover photos"
+    },
+    {
+      "uri": "this_profile's_activity_across_facebook/posts/media/Coverphotos_549612157190121/1041322898019042.jpg",
+      "creation_timestamp": 1740480036,
+      "media_metadata": {
+        "photo_metadata": {
+          "exif_data": [
+            {
+              "taken_timestamp": 1740478478,
+              "modified_timestamp": 1740478478,
+              "orientation": 1
+            }
+          ]
+        }
+      },
+      "title": "Cover photos"
+    }
+  ],
+  "cover_photo": {
+    "uri": "this_profile's_activity_across_facebook/posts/media/Coverphotos_549612157190121/1041322898019042.jpg",
+    "creation_timestamp": 1740480036,
+    "media_metadata": {
+      "photo_metadata": {
+        "exif_data": [
+          {
+            "taken_timestamp": 1740478478,
+            "modified_timestamp": 1740478478,
+            "orientation": 1
+          }
+        ]
+      }
+    },
+    "title": "Cover photos"
+  },
+  "last_modified_timestamp": 1740480056,
+  "description": ""
+}

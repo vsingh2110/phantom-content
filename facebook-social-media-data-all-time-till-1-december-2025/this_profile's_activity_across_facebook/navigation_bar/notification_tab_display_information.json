@@ -1,0 +1,21 @@
+{
+  "timestamp": 1696234644,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Notification tab style",
+      "value": "Number in the top right"
+    },
+    {
+      "label": "Last time you were sent a notification that was marked as sensitive",
+      "timestamp_value": 0
+    },
+    {
+      "label": "Last time you were sent a notification on iOS with sound on",
+      "timestamp_value": 0
+    }
+  ],
+  "fbid": "706188611532474"
+}
